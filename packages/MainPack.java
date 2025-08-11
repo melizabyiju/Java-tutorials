@@ -6,4 +6,5 @@ public class MainPack
         MyName ob=new MyName();
         ob.PrintName();
     }
+
 }
